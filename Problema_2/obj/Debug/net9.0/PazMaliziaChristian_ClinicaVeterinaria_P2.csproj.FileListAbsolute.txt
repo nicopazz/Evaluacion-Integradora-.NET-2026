@@ -1,0 +1,15 @@
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\bin\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.exe
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\bin\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.deps.json
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\bin\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.runtimeconfig.json
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\bin\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.dll
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\bin\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.pdb
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.sourcelink.json
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.dll
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\refint\PazMaliziaChristian_ClinicaVeterinaria_P2.dll
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.pdb
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\PazMaliziaChristian_ClinicaVeterinaria_P2.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Evaluaci-n-Integradora-.NET-2026\Problema_2\obj\Debug\net9.0\ref\PazMaliziaChristian_ClinicaVeterinaria_P2.dll
