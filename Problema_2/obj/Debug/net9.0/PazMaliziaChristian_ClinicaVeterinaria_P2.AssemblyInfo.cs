@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PazMaliziaChristian_ClinicaVeterinaria_P2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ea0a5c1884ee74298136a398705779ba2141923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fe9b24d38ab53c7efe44ef944c3d3f56406860")]
 [assembly: System.Reflection.AssemblyProductAttribute("PazMaliziaChristian_ClinicaVeterinaria_P2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PazMaliziaChristian_ClinicaVeterinaria_P2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
