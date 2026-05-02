@@ -88,9 +88,9 @@ public class Gato : Animal
 
 public record Consulta(string IdConsulta, string IdPaciente, string NombreVeterinario, string Motivo, decimal Costo, DateTime Fecha);
 
-// ====================================================================
-// EJERCICIO 1: CLASE ESTÁTICA PARA EL MÉTODO RECURSIVO
-// ====================================================================
+
+/* EJERCICIO 1: CLASE ESTÁTICA PARA EL MÉTODO RECURSIVO */
+
 public static class VeterinariaUtils
 {
     // Método recursivo — sin usar bucles
@@ -102,10 +102,8 @@ public static class VeterinariaUtils
     }
 }
 
-// ====================================================================
-// PROGRAMA PRINCIPAL (Problema 2 - Estructuras y Recursividad)
-// ====================================================================
 
+/* PROGRAMA PRINCIPAL (Problema 2 - Estructuras y Recursividad) */
 class Program
 {
     static void Main()
